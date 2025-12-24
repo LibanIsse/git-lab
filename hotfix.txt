@@ -1,1 +1,1 @@
-otfix applied
+hotfix config for prod
